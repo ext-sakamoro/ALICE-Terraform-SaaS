@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_TERRAFORM
+name: alice-terraform
 description: ALICE Terraform
 type: application
 version: 0.1.0
